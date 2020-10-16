@@ -1,0 +1,25 @@
+const features = [
+    { featureName: 'Water Source', featureImg: 'WaterSource.svg' },
+    { featureName: 'Water Fountain', featureImg: 'WaterFountain.svg' },
+    { featureName: 'Bathrooms', featureImg: 'Bathrooms.svg' },
+    { featureName: 'Trail Head', featureImg: 'TrailHead.svg' },
+    { featureName: 'Tent Site', featureImg: 'TentSite.svg' },
+    { featureName: 'RV Site', featureImg: 'RvSite.svg' },
+    { featureName: 'Cabin', featureImg: 'Cabin.svg' },
+    { featureName: 'Boat Launch', featureImg: 'BoatLaunch.svg' },
+    { featureName: 'Restaurant', featureImg: 'Restaurant.svg' },
+    { featureName: 'Hotel', featureImg: 'Hotel.svg' },
+    { featureName: 'Office', featureImg: 'Office.svg' },
+    { featureName: 'Swim Area', featureImg: 'SwimArea.svg' },
+    { featureName: 'Dog Park', featureImg: 'DogPark.svg' },
+    { featureName: 'Scenic Point', featureImg: 'ScenicPoint.svg' },
+    { featureName: 'Fishing', featureImg: 'Fishing.svg' },
+    { featureName: 'Pavilion', featureImg: 'Pavilion.svg' },
+    { featureName: 'Picnic Area', featureImg: 'PicnicArea.svg' },
+    { featureName: 'Basketball Court', featureImg: 'BasketballCourt.svg' },
+    { featureName: 'Volleyball Court', featureImg: 'VolleyballCourt.svg' },
+    { featureName: 'Tennis Court', featureImg: 'TennisCourt.svg' },
+    { featureName: 'Playground', featureImg: 'Playground.svg' },
+]
+
+module.exports = features
