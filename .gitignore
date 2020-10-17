@@ -1,4 +1,5 @@
 /client/.env
 /client/node_modules
 
+/config/keys.js
 node_modules
